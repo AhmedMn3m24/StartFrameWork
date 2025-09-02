@@ -5,7 +5,7 @@ import Home from "./Component/Home/Home";
 import About from "./Component/About/About";
 import Contact from "./Component/Contact/Contact";
 import Portfolio from "./Component/Portfolio/Portfolio";
-import satar from './Component/Satar/Satar'
+import satar from "./Component/Satar/Satar";
 import { createBrowserRouter, RouterProvider } from "react-router-dom";
 
 function App() {
